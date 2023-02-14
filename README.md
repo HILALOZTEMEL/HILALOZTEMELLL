@@ -1,25 +1,24 @@
+![banner](https://user-images.githubusercontent.com/60732734/218852926-86d9aafb-3a1b-45ca-8c73-5a23e24af199.png)
+
 ### Hi there 👋 this is Hilal Öztemel
 
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning Computer Vision
 
+### Socials
 
-[Hilal Öztemel | LinkedIn](https://www.linkedin.com/in/hilal-%C3%B6ztemel-290a09209/?originalSubdomain=tr " Hilal Öztemel | LinkedIn")
-
-[Hilal Öztemel | Instagram](https://www.instagram.com/whocarescode/ " Hilal Öztemel | Instagram")
-<!--
-**HILALOZTEMEL/HILALOZTEMEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[1.1]: https://img.icons8.com/nolan/64/linkedin-circled.png (twitter icon with padding)
+[2.1]: https://img.icons8.com/arcade/64/null/instagram-new.png (facebook icon with padding)
+
+
+[1]: https://www.linkedin.com/in/hilal-%C3%B6ztemel-290a09209/?originalSubdomain=tr
+[2]: https://www.instagram.com/whocarescode/
+
 
 
 
