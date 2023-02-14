@@ -1,4 +1,6 @@
-![banner](https://user-images.githubusercontent.com/60732734/218852926-86d9aafb-3a1b-45ca-8c73-5a23e24af199.png)
+
+![banner](https://user-images.githubusercontent.com/60732734/218861385-3fec2cff-87d7-4665-b7b4-6ccbb4ab387b.png)
+
 
 ### Hi there 👋 this is Hilal Öztemel
 
