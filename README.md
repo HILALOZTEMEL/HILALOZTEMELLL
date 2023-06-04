@@ -5,7 +5,7 @@
 ### Hi there 👋 this is Hilal Öztemel
 
 - 🔭 I’m currently working on Deep Learning
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Computer Vision and Swift
 
 ### Socials
 
